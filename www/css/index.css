@@ -1,0 +1,27 @@
+body{
+
+    margin: 0 auto;
+    background-image: url("https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/0kjHIH6/animated-cartoon-blue-sky-with-white-clouds_vj92cw5je__F0000.png");
+    
+}
+input[type=text]{
+    height: 80px;
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    background-color: ;
+    color: block;
+}
+input[type=button]{
+    background-color: #00FFFF;
+    border: none;
+    color: black;
+    padding: 10px 32px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+    width: 50%
+}
